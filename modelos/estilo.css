@@ -7,11 +7,11 @@ table{
 	margin: auto; /* alinhamento centralizado da tabela*/
 }
 
-button{
+button{ 
 	color: #4169E1; /*cor da fonte*/
 	background: #191970; /* cor do fundo do botão*/
 	font-size: 20px; /* tamanho da fonte*/
-	border-radius: 20px 50px 20px 50px; /* arredonda os cantos*/
+	border-radius: 20px; /* arredonda os cantos*/
 	margin-top: 25px; /* espaçamento na parte de cima do botão */
 	margin-bottom: 25px; /* espaçamento na parte debaixo do botão */
 	margin-left: 20px; /*margem a esquerda*/
@@ -21,4 +21,12 @@ button{
 
 	padding-top: 10px; /*margem interna de cima*/
 	padding-bottom: 10px; /*margem interna de baixo*/
+}
+
+p{
+	color:#191970 ;
+	font-size: 25px;
+	font-family: 'Ravie'; /* fonte do texto*/
+	text-transform: lowercase;
+	letter-spacing: 2px;
 }
