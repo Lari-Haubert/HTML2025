@@ -26,7 +26,10 @@ button{
 p{
 	color:#191970 ;
 	font-size: 25px;
-	font-family: 'Ravie'; /* fonte do texto*/
+	font-family: "Jost", sans-serif; /* fonte do texto*/
 	text-transform: lowercase;
 	letter-spacing: 2px;
+	text-align: justify;
+	padding-left: 20px;
+	padding-right: 20px;
 }
