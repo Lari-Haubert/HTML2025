@@ -1,0 +1,35 @@
+table{
+	width: 90%;
+	margin: auto;
+	text-align: center;
+}
+
+h1{
+	font-family: "Quantico", sans-serif;
+	color: #0000CD;
+}
+
+p{
+	font-size: 17px;
+	text-align: justify;
+}
+
+button{
+	border-radius: 20px;
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background: #6495ED;
+	width: 100px;
+	margin-top: 100px;
+}
+
+.page{
+	border-radius: 20px;
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background: #6495ED;
+	width: 150px;
+
+}
